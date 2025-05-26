@@ -9,3 +9,5 @@ Este es un proyecto de prácticas para Ingeniería de Software.
 * `src/`: Código fuente.
 * `src/main/`: Código fuente principal.
 * `src/test/`: Pruebas unitarias.
+
+Este cambio se hizo desde github
